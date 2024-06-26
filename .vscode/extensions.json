@@ -1,3 +1,8 @@
 {
-  "recommendations": ["esbenp.prettier-vscode", "eamodio.gitlens", "yrm.type-challenges"]
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "eamodio.gitlens",
+    "yrm.type-challenges",
+    "streetsidesoftware.code-spell-checker"
+  ]
 }
