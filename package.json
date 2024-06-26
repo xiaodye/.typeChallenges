@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "esno": "^4.7.0"
+    "esno": "^4.7.0",
+    "typescript": "^5.5.2"
   }
 }
