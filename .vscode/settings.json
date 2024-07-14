@@ -3,5 +3,6 @@
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "cSpell.words": ["esno"]
+  "cSpell.words": ["esno"],
+  "typeChallenges.defaultLanguage": "zh"
 }
