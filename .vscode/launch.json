@@ -10,7 +10,8 @@
       "request": "launch",
       "args": ["./node_modules/esno/esno.js", "${file}"],
       "skipFiles": ["<node_internals>/**"],
-      "internalConsoleOptions": "openOnSessionStart"
+      "internalConsoleOptions": "openOnSessionStart",
+      "runtimeExecutable": "fnm"
     }
   ]
 }
