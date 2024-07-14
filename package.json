@@ -14,5 +14,8 @@
   "dependencies": {
     "esno": "^4.7.0",
     "typescript": "^5.5.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
